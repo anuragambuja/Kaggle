@@ -2,6 +2,6 @@
 
 - ### Python
 - ### Pandas
-- ### Intro to SQL
+- ### [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 - ### Advanced SQL
 - ### Data Visualization
